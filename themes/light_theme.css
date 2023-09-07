@@ -1,0 +1,14 @@
+QWidget {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+QPushButton {
+    background-color: #ddd;
+    border: 1px solid #aaa;
+}
+
+QListWidget, QLineEdit, QSpinBox, QComboBox {
+    background-color: #fff;
+    border: 1px solid #aaa;
+}
